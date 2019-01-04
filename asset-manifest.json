@@ -1,7 +1,7 @@
 {
-  "main.css": "/Assignment-18-react-restaurantApp/static/css/main.fe987644.chunk.css",
-  "main.js": "/Assignment-18-react-restaurantApp/static/js/main.7c5e75aa.chunk.js",
-  "main.js.map": "/Assignment-18-react-restaurantApp/static/js/main.7c5e75aa.chunk.js.map",
+  "main.css": "/Assignment-18-react-restaurantApp/static/css/main.7518fe82.chunk.css",
+  "main.js": "/Assignment-18-react-restaurantApp/static/js/main.2d9fceab.chunk.js",
+  "main.js.map": "/Assignment-18-react-restaurantApp/static/js/main.2d9fceab.chunk.js.map",
   "static/js/1.2fa4fa51.chunk.js": "/Assignment-18-react-restaurantApp/static/js/1.2fa4fa51.chunk.js",
   "static/js/1.2fa4fa51.chunk.js.map": "/Assignment-18-react-restaurantApp/static/js/1.2fa4fa51.chunk.js.map",
   "runtime~main.js": "/Assignment-18-react-restaurantApp/static/js/runtime~main.a40b2087.js",
@@ -13,8 +13,8 @@
   "static/media/turkey_2.png": "/Assignment-18-react-restaurantApp/static/media/turkey_2.3f43faf1.png",
   "static/media/logo.svg": "/Assignment-18-react-restaurantApp/static/media/logo.5d5d9eef.svg",
   "static/media/fish.png": "/Assignment-18-react-restaurantApp/static/media/fish.bf2b42ab.png",
-  "static/css/main.fe987644.chunk.css.map": "/Assignment-18-react-restaurantApp/static/css/main.fe987644.chunk.css.map",
+  "static/css/main.7518fe82.chunk.css.map": "/Assignment-18-react-restaurantApp/static/css/main.7518fe82.chunk.css.map",
   "index.html": "/Assignment-18-react-restaurantApp/index.html",
-  "precache-manifest.b808e3dac742a500d49e9615e4822222.js": "/Assignment-18-react-restaurantApp/precache-manifest.b808e3dac742a500d49e9615e4822222.js",
+  "precache-manifest.627d7b6b2d85605ca3380a126d571270.js": "/Assignment-18-react-restaurantApp/precache-manifest.627d7b6b2d85605ca3380a126d571270.js",
   "service-worker.js": "/Assignment-18-react-restaurantApp/service-worker.js"
 }
