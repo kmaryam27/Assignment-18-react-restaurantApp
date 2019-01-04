@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Assignment-18-react-restaurantApp/precache-manifest.7c0f2e00d7b6b2d242efcac6b8d7a0db.js"
+  "/Assignment-18-react-restaurantApp/precache-manifest.b808e3dac742a500d49e9615e4822222.js"
 );
 
 workbox.clientsClaim();

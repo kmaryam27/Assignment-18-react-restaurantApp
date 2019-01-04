@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Assignment-18-react-restaurantApp/static/media/pizza.f4a9439e.png"
   },
   {
-    "revision": "9baf898b155903b35a76",
-    "url": "/Assignment-18-react-restaurantApp/static/css/main.f5574494.chunk.css"
+    "revision": "7c5e75aa73b2105b604b",
+    "url": "/Assignment-18-react-restaurantApp/static/css/main.fe987644.chunk.css"
   },
   {
     "revision": "2fa4fa516e7ba6696568",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/Assignment-18-react-restaurantApp/static/media/fish.bf2b42ab.png"
   },
   {
-    "revision": "9baf898b155903b35a76",
-    "url": "/Assignment-18-react-restaurantApp/static/js/main.9baf898b.chunk.js"
+    "revision": "7c5e75aa73b2105b604b",
+    "url": "/Assignment-18-react-restaurantApp/static/js/main.7c5e75aa.chunk.js"
   },
   {
     "revision": "c9717ade6d67a35a5fc3d40424aea464",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Assignment-18-react-restaurantApp/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "806c2114910a5e9567bbc8b7840cef6c",
+    "revision": "d8f5ef752fe5d4608731fb4cb484df57",
     "url": "/Assignment-18-react-restaurantApp/index.html"
   }
 ];
