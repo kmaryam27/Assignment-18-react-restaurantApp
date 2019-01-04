@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Assignment-18-react-restaurantApp/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "3bf2e31855cd128073e5999a2530e092",
+    "revision": "285a2840ab47a1d8817bec7ee441a2e6",
     "url": "/Assignment-18-react-restaurantApp/index.html"
   }
 ];
